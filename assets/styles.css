@@ -49,3 +49,21 @@ footer p {
   height: 35px;
   padding-left: 10px;
 }
+
+a {
+  color: #2E30DB;
+}
+
+.btn-outline-primary {
+  color: #2E30DB;
+  border-color: #2E30DB;
+}
+
+.btn-primary:hover {
+  background-color: #0C0EB0;
+}
+
+.btn-primary, .btn-outline-primary:hover {
+  background-color: #2E30DB;
+  border-color: #2E30DB;
+}
