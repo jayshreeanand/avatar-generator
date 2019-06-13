@@ -44,3 +44,8 @@ footer p {
 .card:hover {
   background-color: #eee;
 }
+
+.logo {
+  height: 35px;
+  padding-left: 10px;
+}
